@@ -1,3 +1,16 @@
+# React Music
+
+This small application allows you to search for the name of a musical artist and the lyrics of one of their songs.
+
+**Demo:**
+
+### Dev tools used:
+
+> - HTML, CSS, Bootstrap 4
+> - ES6, React.js, Axios API
+> - API'S (napster.com & lyrics.ovh)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
