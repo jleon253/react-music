@@ -2,7 +2,7 @@
 
 This small application allows you to search for the name of a musical artist and the lyrics of one of their songs.
 
-**Demo:**
+**Demo:** https://jleon253.github.io/react-music/
 
 ### Dev tools used:
 
